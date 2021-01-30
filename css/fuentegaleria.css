@@ -1,0 +1,228 @@
+
+@font-face {
+  font-family: 'iconogaleria';
+  src: url('../fonts/iconogaleria-adfo.eot');
+  src: url('../fonts/iconogaleria-adfo.eot?#iefix') format('embedded-opentype'),
+     url('../fonts/iconogaleria-adfo.woff2') format('woff2'),
+     url('../fonts/iconogaleria-adfo.woff') format('woff'),
+     url('../fonts/iconogaleria-adfo.ttf') format('truetype'),
+     url('../fonts/iconogaleria-adfo.svg#iconogaleriaregular') format('svg');
+}
+.iconogaleria-adfo{
+	font-family:iconogaleria;
+}
+/*códigos de fuentes*/
+/*cerrar*/
+.iconogaleria-adfo-cerrar-1:before{
+	content:"\0032";
+}
+.iconogaleria-adfo-cerrar-2:before{
+	content:"\0033";
+}
+.iconogaleria-adfo-cerrar-3:before{
+	content:"\0034";
+}
+.iconogaleria-adfo-cerrar-4:before{
+	content:"\0035";
+}
+.iconogaleria-adfo-cerrar-5:before{
+	content:"\0036";
+}
+.iconogaleria-adfo-cerrar-6:before{
+	content:"\0037";
+}
+.iconogaleria-adfo-cerrar-7:before{
+	content:"\007A";
+}
+.iconogaleria-adfo-cerrar-8:before{
+	content:"\0079";
+}
+/*play, pause, stop */
+.iconogaleria-adfo-play:before{
+	content:"\0040";
+}
+.iconogaleria-adfo-pause:before{
+	content:"\0023";
+}
+.iconogaleria-adfo-stop:before{
+	content:"\0024";
+}
+/*flechas derecha*/
+.iconogaleria-adfo-flecha-derecha-1:before{
+	content:"\003D";
+}
+.iconogaleria-adfo-flecha-derecha-2:before{
+	content:"\0041";
+}
+.iconogaleria-adfo-flecha-derecha-3:before{
+	content:"\0046";
+}
+.iconogaleria-adfo-flecha-derecha-4:before{
+	content:"\004A";
+}
+.iconogaleria-adfo-flecha-derecha-5:before{
+	content:"\004D";
+}
+.iconogaleria-adfo-flecha-derecha-6:before{
+	content:"\0051";
+}
+.iconogaleria-adfo-flecha-derecha-7:before{
+	content:"\0056";
+}
+.iconogaleria-adfo-flecha-derecha-8:before{
+	content:"\005A";
+}
+.iconogaleria-adfo-flecha-derecha-9:before{
+	content:"\0061";
+}
+.iconogaleria-adfo-flecha-derecha-10:before{
+	content:"\0066";
+}
+.iconogaleria-adfo-flecha-derecha-11:before{
+	content:"\006B";
+}
+.iconogaleria-adfo-flecha-derecha-12:before{
+	content:"\0070";
+}
+.iconogaleria-adfo-flecha-derecha-13:before{
+	content:"\0074";
+}
+.iconogaleria-adfo-flecha-derecha-14:before{
+	content:"\0075";
+}
+/*flechas izquierda*/
+.iconogaleria-adfo-flecha-izquierda-1:before{
+	content:"\003C";
+}
+.iconogaleria-adfo-flecha-izquierda-2:before{
+	content:"\0042";
+}
+.iconogaleria-adfo-flecha-izquierda-3:before{
+	content:"\0045";
+}
+.iconogaleria-adfo-flecha-izquierda-4:before{
+	content:"\0049";
+}
+.iconogaleria-adfo-flecha-izquierda-5:before{
+	content:"\004E";
+}
+.iconogaleria-adfo-flecha-izquierda-6:before{
+	content:"\0052";
+}
+.iconogaleria-adfo-flecha-izquierda-7:before{
+	content:"\0055";
+}
+.iconogaleria-adfo-flecha-izquierda-8:before{
+	content:"\0059";
+}
+.iconogaleria-adfo-flecha-izquierda-9:before{
+	content:"\0062";
+}
+.iconogaleria-adfo-flecha-izquierda-10:before{
+	content:"\0065";
+}
+.iconogaleria-adfo-flecha-izquierda-11:before{
+	content:"\006A";
+}
+.iconogaleria-adfo-flecha-izquierda-12:before{
+	content:"\006F";
+}
+.iconogaleria-adfo-flecha-izquierda-13:before{
+	content:"\0073";
+}
+.iconogaleria-adfo-flecha-izquierda-14:before{
+	content:"\0076";
+}
+/*flechas arriba*/
+.iconogaleria-adfo-flecha-arriba-1:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-2:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-3:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-4:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-5:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-6:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-7:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-8:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-9:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-10:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-11:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-12:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-13:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-arriba-14:before{
+	content:"\00";
+}
+/*flechas abajo*/
+.iconogaleria-adfo-flecha-abajo-1:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-2:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-3:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-4:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-5:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-6:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-7:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-8:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-9:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-10:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-11:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-12:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-13:before{
+	content:"\00";
+}
+.iconogaleria-adfo-flecha-abajo-14:before{
+	content:"\00";
+}
+/*Toque de dedos*/
+.iconogaleria-adfo-toque-dedos-1:before{
+	content:"\00C0";
+}
+.iconogaleria-adfo-toque-dedos-2:before{
+	content:"\0031";
+}
